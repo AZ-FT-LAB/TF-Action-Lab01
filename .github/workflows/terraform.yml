@@ -16,7 +16,6 @@ env:
   ROOT_PATH: '${{ github.workspace }}/src/terraform'
 
 
-
 jobs:
   terraform_plan:
     name: 'Terraform plan'
