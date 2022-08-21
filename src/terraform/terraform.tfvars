@@ -1,0 +1,8 @@
+resource_group_name         = "testlab-rg01"
+resource_group_location     = "westus3"
+virtual_network_name        = "vnet-dev-01"
+subnet_name                 = "subnet-dev-01"
+public_ip_name              = "publicip-dev-01"
+network-security_group_name = "nsg-dev-01"
+network_interface_name      = "nic-internal-dve-01"
+linux_vertual_machine_name  = "linuxvm-dev-01"
